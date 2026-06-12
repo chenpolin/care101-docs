@@ -1,12 +1,12 @@
 ---
-description: 注意：此功能尚未完全開放。等待Google認證中，預期2025-12-30啟用。
+description: 注意：此功能尚未完全開放。等待Google認證中，預期2026-08-30啟用。
 ---
 
 # C1-3 Google Calendar 同步
 
 {% embed url="https://youtu.be/wsuPa_knOLc" %}
 
-<mark style="color:red;">**注意：此功能尚未完全開放。等待Google認證中，預期2025-12-30啟用。**</mark>
+<mark style="color:red;">**注意：此功能尚未完全開放。等待Google認證中，預期2026-08-30啟用。**</mark>
 
 #### Google Calendar 同步功能說明
 
